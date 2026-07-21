@@ -28,8 +28,6 @@ Passionate Computer Science Engineering graduate with hands-on experience in Ful
 
 # 👨‍💻 About Me
 
-# 👨‍💻 About Me
-
 🎓 **B.Tech in Computer Science & Engineering (2025 Graduate)**
 🏫 **Sree Vidyanikethan Engineering College, Tirupati, Andhra Pradesh, India**
 
