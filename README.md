@@ -3,31 +3,46 @@
 <h3 align="center">🚀 Full Stack Developer | Python | Java | React.js | Node.js | Express.js | MySQL | Prisma ORM</h3>
 
 <p align="center">
-Passionate Computer Science graduate with hands-on experience in building scalable full-stack web applications. I enjoy transforming ideas into real-world software solutions while continuously learning modern technologies.
+Passionate Computer Science Engineering graduate with hands-on experience in Full Stack Web Development. I enjoy building scalable web applications, solving real-world problems, and continuously learning modern technologies.
 </p>
 
 <p align="center">
-<a href="https://www.linkedin.com/in/sumanth-reddy-9ab09a275"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="https://leetcode.com/u/sumanth_77"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/></a>
-<a href="https://www.hackerrank.com/profile/suramsumanthred1"><img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white"/></a>
-<a href="https://www.naukri.com/mnjuser/profile"><img src="https://img.shields.io/badge/Naukri-0057B8?style=for-the-badge"/></a>
+<a href="https://www.linkedin.com/in/sumanth-reddy77ab09a275/" target="_blank">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://leetcode.com/u/sumanth_77/" target="_blank">
+<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+</a>
+
+<a href="https://www.hackerrank.com/profile/suramsumanthred1" target="_blank">
+<img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white"/>
+</a>
+
+<a href="https://www.naukri.com/mnjuser/profile?id=&altresid" target="_blank">
+<img src="https://img.shields.io/badge/Naukri-0057B8?style=for-the-badge"/>
+</a>
 </p>
 
 ---
 
 # 👨‍💻 About Me
 
+# 👨‍💻 About Me
+
 🎓 **B.Tech in Computer Science & Engineering (2025 Graduate)**
+🏫 **Sree Vidyanikethan Engineering College, Tirupati, Andhra Pradesh, India**
 
-💼 **Software Developer Intern at Zenova Tech Labs**
+💼 **Software Developer Intern (4 Months)** – **Zenova Tech Labs**
+📍 **Chennai, Tamil Nadu, India**
 
-🌱 Passionate about Full Stack Web Development
+🚀 Passionate about building scalable Full Stack web applications and solving real-world problems through software.
 
-💻 Strong knowledge of Python, Java, SQL, JavaScript and React.js
+💻 Strong foundation in **Python, Html, CSS, JavaScript, SQL, Flask, Pyodbc, React.js, Node.js, Express.js, MySQL, and Prisma ORM**.
 
-⚡ Interested in Backend Development, REST APIs, Databases and Cloud Technologies
+🌱 Continuously learning modern technologies, backend development, REST APIs, database design, and cloud fundamentals.
 
-🚀 Currently building Full Stack Applications using React, Express, Prisma and MySQL.
+🤝 Open to **Software Developer**, **Full Stack Developer**, and **Backend Developer** opportunities.
 
 ---
 
@@ -36,10 +51,8 @@ Passionate Computer Science graduate with hands-on experience in building scalab
 ## 💻 Languages
 
 <p>
-<img src="https://skillicons.dev/icons?i=python,java,javascript,html,css,mysql"/>
+<img src="https://skillicons.dev/icons?i=python,java,javascript,html,css"/>
 </p>
-
----
 
 ## 🎨 Frontend
 
@@ -47,15 +60,11 @@ Passionate Computer Science graduate with hands-on experience in building scalab
 <img src="https://skillicons.dev/icons?i=react,html,css,bootstrap"/>
 </p>
 
----
-
 ## ⚙️ Backend
 
 <p>
 <img src="https://skillicons.dev/icons?i=nodejs,express,flask"/>
 </p>
-
----
 
 ## 🗄️ Database & ORM
 
@@ -66,69 +75,71 @@ Passionate Computer Science graduate with hands-on experience in building scalab
 <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white"/>
 </p>
 
----
-
 ## 🛠️ Tools
 
 <p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,docker,postman"/>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,docker,postman,npm"/>
 </p>
 
 ---
 
 # 💼 Internship Experience
 
-## Software Developer Intern — Zenova Tech Labs
+## Software Developer Intern | Zenova Tech Labs
 
-* Developed backend applications using Python and SQL Server.
-* Built and integrated REST APIs.
-* Performed CRUD operations and optimized SQL queries.
-* Worked with Flask, PyODBC and database integration.
-* Debugged and maintained backend applications.
-* Collaborated with the development team to deliver scalable software solutions.
+* Worked as a **Software Developer Intern** for **4 months**.
+* Developed backend applications using **Python**, **Flask**, **PyODBC**, and **SQL Server**.
+* Designed and integrated **REST APIs** for seamless frontend-backend communication.
+* Wrote optimized SQL queries and performed CRUD operations.
+* Assisted in debugging, testing, and maintaining production-ready applications.
+* Collaborated with team members using Git and modern development practices.
 
 ---
 
 # 🚀 Featured Projects
 
-## 🔹 RenewCred CMS
+## 📌 RenewCred CMS
 
-A Full Stack Content Management System built using:
-
-* React.js
-* Express.js
-* Node.js
-* Prisma ORM
-* MySQL
+A production-ready **Content Management System (CMS)** built using **React.js, Node.js, Express.js, Prisma ORM, and MySQL**.
 
 ### Features
 
-* Secure Authentication
-* Admin Dashboard
-* Dynamic Content Management
-* REST APIs
-* Responsive UI
-* MySQL Database Integration
+* 🔐 Secure Authentication
+* 👨‍💼 Admin Dashboard
+* 📝 Dynamic Content Management
+* 🌐 REST APIs
+* 📱 Responsive Design
+* 🐳 Docker Support
+
+**Repository**
+
+👉 https://github.com/Sumanth8913/renewcred-cms
 
 ---
 
-## 🔹 Train Coach Seat Reservation System
+## 📌 ACME Cloud AI Support
 
-* Smart Seat Allocation
-* Nearby Seat Booking
+An AI-powered customer support platform featuring intelligent workflows and backend services.
+
+**Repository**
+
+👉 https://github.com/Sumanth8913/acmecloud-ai-support
+
+---
+
+## 📌 Train Coach Seat Reservation System
+
+An intelligent train reservation application featuring:
+
+* Nearby Seat Allocation
 * Lower Berth Priority
-* Admin Dashboard
-* Flask REST API
-* SQL Server Database
+* Smart Booking Logic
+* Responsive Interface
+* Database Integration
 
----
+**Repository**
 
-## 🔹 PDF Chatbot using RAG
-
-* Retrieval-Augmented Generation (RAG)
-* PDF Processing
-* Semantic Search
-* AI-powered Question Answering
+👉 https://github.com/Sumanth8913/train_coach_seat_Reservation
 
 ---
 
@@ -136,11 +147,11 @@ A Full Stack Content Management System built using:
 
 <p align="left">
 
-<a href="https://www.linkedin.com/in/sumanth-reddy-9ab09a275">
+<a href="https://www.linkedin.com/in/sumanth-reddy77ab09a275/">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="https://leetcode.com/u/sumanth_77">
+<a href="https://leetcode.com/u/sumanth_77/">
 <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
 </a>
 
@@ -148,10 +159,27 @@ A Full Stack Content Management System built using:
 <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white"/>
 </a>
 
-<a href="https://www.naukri.com/mnjuser/profile">
+<a href="https://www.naukri.com/mnjuser/profile?id=&altresid">
 <img src="https://img.shields.io/badge/Naukri-0057B8?style=for-the-badge"/>
 </a>
 
 </p>
 
 ---
+
+# 📂 My Best Repositories
+
+⭐ **RenewCred CMS**
+https://github.com/Sumanth8913/renewcred-cms
+
+⭐ **ACME Cloud AI Support**
+https://github.com/Sumanth8913/acmecloud-ai-support
+
+⭐ **Train Coach Seat Reservation System**
+https://github.com/Sumanth8913/train_coach_seat_Reservation
+
+---
+
+⭐ **Thanks for visiting my GitHub profile!**
+
+I'm always eager to learn, collaborate, and contribute to meaningful software projects. Feel free to explore my repositories, connect with me, or reach out for collaboration opportunities.
